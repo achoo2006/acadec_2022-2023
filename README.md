@@ -4,11 +4,15 @@ academic decathlon obsidian "vaults", 2022-2023 school year
 **To use this**
 
 Download Obsidian at https://obsidian.md/
+
 Ensure git is installed https://github.com/git-guides/install-git
+
 Clone the repository via a command line interface:
+
 ```sh
 git clone https://achoo2006/acadec_2022-2023
 ```
+
 This will download all of the files to `acadec_2022-2023` in your current directory.
 
 **To contribute to the repository, edit/add any files needed, then:**
@@ -30,4 +34,5 @@ make a pull request
 gh pr create
 ```
 Choose to create a fork, then follow the prompts
+
 This will put in a pull request to merge your files, I might choose to come back and merge it (whenever Ryan reminds me).
