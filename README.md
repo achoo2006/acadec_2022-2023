@@ -1,8 +1,9 @@
 # acadec_2022-2023
 academic decathlon obsidian "vaults", 2022-2023 school year
 
-**To use this**
-download Obsidian at https://obsidian.md/
+**To use this**|
+
+Download Obsidian at https://obsidian.md/
 Ensure git is installed https://github.com/git-guides/install-git
 Clone the repository via a command line interface:
 ```sh
@@ -20,7 +21,8 @@ git commit -a
 
 To make a push request to synchronize your local repository with the one in github 
 
-**first time**
+**First time**
+
 Install the github command line client: https://cli.github.com/ , if it is not already installed
 
 make a pull request
