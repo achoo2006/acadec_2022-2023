@@ -1,7 +1,7 @@
 # acadec_2022-2023
 academic decathlon obsidian "vaults", 2022-2023 school year
 
-**To use this**|
+**To use this**
 
 Download Obsidian at https://obsidian.md/
 Ensure git is installed https://github.com/git-guides/install-git
