@@ -7,7 +7,7 @@ Download Obsidian at https://obsidian.md/
 
 Ensure git is installed https://github.com/git-guides/install-git
 
-Clone the repository via a command line interface:
+Clone the repository to your computer via a command line interface (just open command prompt on windows, google it for mac lol, if using a linux distribution you should know already :P):
 
 ```sh
 git clone https://achoo2006/acadec_2022-2023
