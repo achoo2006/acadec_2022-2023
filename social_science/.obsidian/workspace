@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9b1fe7fe1ffda430",
+        "id": "db04f4c525137429",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Revolution/Battle of Trenton.md",
+            "file": "Events/Revolution/The Siege of Boston.md",
             "mode": "source",
             "source": false
           }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Revolution/Battle of Trenton.md",
+                "file": "Events/Revolution/The Siege of Boston.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Revolution/Battle of Trenton.md",
+                "file": "Events/Revolution/The Siege of Boston.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Revolution/Battle of Trenton.md"
+                "file": "Events/Revolution/The Siege of Boston.md"
               }
             }
           }
@@ -129,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b1fe7fe1ffda430",
+  "active": "25ba25d011d92de8",
   "lastOpenFiles": [
-    "Events/Revolution/Battle of Trenton.md",
     "Events/Pre-Revolution/King Philip's War.md",
-    "Indians/Algonquians.md",
+    "Events/Revolution/Fort Ticonderoga.md",
+    "Events/Revolution/The Siege of Boston.md",
     "Indians/Mohawk.md",
+    "Events/Revolution/Battle of Trenton.md",
+    "Indians/Algonquians.md",
     "Indians/Iroquois.md",
     "Indians/Pequot.md",
     "Indians/Onondaga.md",
-    "Indians/Narrasangett.md",
-    "Indians/Seneca.md",
-    "Indians/The Six Nations.md"
+    "Indians/Narrasangett.md"
   ]
 }
