@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "103e07e668fe9926",
+        "id": "9a58410425ad07ca",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Jesuit Relations.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,13 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Jesuit Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Jesuit Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Jesuit Relations.md"
+              }
             }
           }
         ],
@@ -118,20 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "103e07e668fe9926",
+  "active": "9a58410425ad07ca",
   "lastOpenFiles": [
-    "Events/Revolution/Decalaration Of Independence.md",
+    "Europeans/French.md",
+    "Events/Pre-Revolution/Seven Years War.md",
+    "Indians/Powhatan.md",
     "Events/Revolution/Fort Ticonderoga.md",
-    "Events/Revolution/The Siege of Boston.md",
-    "Events/Pre-Revolution/King Philip's War.md",
-    "Indians/Mohawk.md",
+    "Europeans/Colonies.md",
     "Events/Revolution/Battle of Trenton.md",
-    "Indians/Algonquians.md",
-    "Indians/Iroquois.md",
-    "Indians/Pequot.md",
-    "Indians/Onondaga.md"
+    "Events/Revolution/The Siege of Boston.md",
+    "Europeans/British.md",
+    "Events/Revolution/Decalaration Of Independence.md",
+    "Europeans/Puritans.md"
   ]
 }
