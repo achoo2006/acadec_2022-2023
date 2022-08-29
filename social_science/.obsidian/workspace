@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc0c71e85efcf71",
+        "id": "9b1fe7fe1ffda430",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Indians/Algonquians.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indians/Algonquians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indians/Algonquians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Indians/Algonquians.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -129,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1bc0c71e85efcf71",
+  "active": "9b1fe7fe1ffda430",
   "lastOpenFiles": [
-    "Events/King Philip's War.md",
+    "Events/Revolution/Battle of Trenton.md",
+    "Events/Pre-Revolution/King Philip's War.md",
+    "Indians/Algonquians.md",
     "Indians/Mohawk.md",
     "Indians/Iroquois.md",
     "Indians/Pequot.md",
     "Indians/Onondaga.md",
     "Indians/Narrasangett.md",
     "Indians/Seneca.md",
-    "Indians/The Six Nations.md",
-    "Indians/The Five Nations.md",
-    "Indians/Algonquians.md"
+    "Indians/The Six Nations.md"
   ]
 }
