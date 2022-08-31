@@ -1,4 +1,4 @@
-Consisted of several tribes:
+Consisted of several [[Indians|indian]] tribes:
 	-[[Powhatan]]
 	-[[Pequot]]
 	-[[Narrasangett]]

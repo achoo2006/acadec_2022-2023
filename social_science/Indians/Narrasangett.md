@@ -1,4 +1,4 @@
-Come from the aboriginal people of Rhode Island
+Believed to have come from the aboriginal people of Rhode Island
 Established over 30,000 years ago
 First documented by Giovanni de Verrazano visited Narragansett Bay	Warrior tribe
 	Often offered protection to other tribes in exchange for tribute
