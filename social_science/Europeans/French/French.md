@@ -8,4 +8,7 @@ By 1756, the French just around 65,000 people in America.
 
 Their primary motivations for exploring the New World were religion and profits.
 	Efforts to convert "the savages" (referring to the [[Indians|Indian]] population) to Christianity.
-	The French would often have long, engagements with the fur trade. x
+		Prominently, Father Paul Le Jeune published _[[The Jesuit Relations]]_
+	The French would often have long, engagements due to the fur trade.
+		This would lead to many trade relations
+		Also some "fun times" between them (intermarriage)
