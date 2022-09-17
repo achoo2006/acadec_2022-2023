@@ -1,5 +1,5 @@
 ---
-aliases: [American, colonists, colonial government, british colonists]
+aliases: [American, colonists, colonial government, british colonists, rebels]
 ---
 
-While technically still colonists before the conclusion of the American Revolution in the Treaty of Paris, these notes will primarily refer to them as Americans (since that's what they are today.)
+While technically still colonists before the Declaration of Independence, these notes will primarily refer to them as Americans (since that's what they are today.)
