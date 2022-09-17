@@ -9,4 +9,5 @@ Eventually, when America had to develop it's own culture, many American authors 
 One of the first widely acclaimed (and financially successful) books was *[[The Sketch Book]]*, which was authored in the United States. However, it still struggled with the cultural divide, being set in Great Britain.
 
 Many American authors would use Indian culture as a basis for their work, however, the government was actively attempting to remove Indians from their land. So the portrayal of Indians were split in twain - on one hand dangerous savages, on the other romanticized as stoic, courageous, and eloquent inhabitants.
-	While the second description seems to be largely positive, it is a reflection of the common belief that American Indians were less civilized than Europeans.
+	While the second description seems to be largely positive, it is a reflection of the common belief that American Indians were less civilized than Europeans (i.e. "noble savages").
+

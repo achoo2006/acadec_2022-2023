@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77abfe9efd89698d",
+        "id": "512124c077b65eb7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Early America.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Early America.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Early America.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Early America.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,12 +120,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77abfe9efd89698d",
+  "active": "512124c077b65eb7",
   "lastOpenFiles": [
+    "Early America.md",
     "American Exceptionalism.md",
     "Common Sense.md",
     "The Sketch Book.md",
-    "Early America.md",
     "Autobiography (Benjamin Franklin).md"
   ]
 }
