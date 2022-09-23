@@ -12,3 +12,4 @@ Their primary motivations for exploring the New World were religion and profits.
 	The French would often have long, engagements due to the fur trade.
 		This would lead to many trade relations
 		Also some "fun times" between them (intermarriage)
+

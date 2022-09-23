@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "512124c077b65eb7",
+        "id": "9073cb878752b84e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -120,11 +120,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "512124c077b65eb7",
+  "active": "9073cb878752b84e",
   "lastOpenFiles": [
-    "Early America.md",
-    "American Exceptionalism.md",
     "Common Sense.md",
+    "American Exceptionalism.md",
+    "Early America.md",
     "The Sketch Book.md",
     "Autobiography (Benjamin Franklin).md"
   ]
